@@ -35,3 +35,4 @@ Front-end Architecture is a collection  of tools and processes that aims to im
 ## The Architects
 + Micah Godbolt [@micahgodbolt](http://twitter.com/micahgodbolt)
 + Shay Howe [@shayhowe](http://twitter.com/shayhowe)
++ Eric M. Suzanne [@ericmsuzanne](http://twitter.com/ericmsuzanne)
