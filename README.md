@@ -31,6 +31,7 @@ Front-end Architecture is a collection of tools and processes that aims to imp
 ### OO and Code standard Links
 - [Idiomatic CSS](https://github.com/necolas/idiomatic-css)
 - [Idiomatic Sass](https://github.com/anthonyshort/idiomatic-sass)
+- [Used and Abused – CSS Inheritance and Our Misuse of the Cascade](http://phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-of-the-cascade/)
 
 ### Testing Tools
 ### Documentation Tools
