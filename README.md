@@ -1,5 +1,4 @@
 #Front-end Architecture
-## Changing one Twitter Bio at a Time
 
 Raise a Banner. Take up the Torch. It's time to make Front-end Architecture matter!
 
