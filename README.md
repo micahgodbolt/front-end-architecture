@@ -26,11 +26,18 @@ Front-end Architecture is a collection  of tools and processes that aims to im
 
 ## Resources
 ### General Articles
+- [Styleguide Generator Roundup](http://welchcanavan.com/styleguide-roundup/)
 
 ### OO and Code standard Links
+- [Idiomatic CSS](https://github.com/necolas/idiomatic-css)
+- [Idiomatic Sass](https://github.com/anthonyshort/idiomatic-sass)
+
 ### Testing Tools
 ### Documentation Tools
+- [The Styleguide Guide](http://vinspee.me/style-guide-guide/)
+
 ### Automation Tools
 
 ## The Architects
 + Micah Godbolt [@micahgodbolt](http://twitter.com/micahgodbolt)
++ Welch Canavan [@xiwcx](https://twitter.com/xiwcx)
