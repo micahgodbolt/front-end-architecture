@@ -5,7 +5,7 @@ Raise a Banner. Take up the Torch. It's time to make Front-end Architecture matt
 > This is meant as a public space for people to contribute and show their support for the discipline of Front-end Architecture. Feel free to create pull requests to add content. Open issues to discuss ideas, or get clarification. As sections grow, we'll eventually break them into their own files.
 
 ## Working Definition
-Front-end Architecture is a collection of tools and processes that aims to improve the quality of our front-end code while creating a more efficient and sustainable workflow.
+Front-end Architecture is a collection of tools and processes that aims to improve the quality of our front-end code while creating a more efficient and sustainable workflow.
 
 ## Working Components of Front-end Architecture
 * Coding Standards
