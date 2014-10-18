@@ -17,7 +17,8 @@ Front-end Architecture is a collection of tools and processes that aims to imp
   * Styleguide/Pattern Library
   * Architecture Diagrams (Code flow, tool chain)
 * Testing
-  * Regression/Unit testing
+  * Visual Regression
+  * Unit testing
   * End to end testing
 * Automation
   * Dependancy Management (NPM, Bundler, Bower)
@@ -36,6 +37,14 @@ Front-end Architecture is a collection of tools and processes that aims to imp
 - [Used and Abused – CSS Inheritance and Our Misuse of the Cascade](http://phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-of-the-cascade/)
 
 ### Testing Tools
+__Visual Regression__
+- [Wraith](https://github.com/BBC-News/wraith)
+- [PhantomCSS](https://github.com/Huddle/PhantomCSS)
+- [Diffux](https://github.com/diffux/diffux)
+
+__Unit Testing__
+- [Jasmine](http://jasmine.github.io/)
+
 ### Documentation Tools
 - [The Styleguide Guide](http://vinspee.me/style-guide-guide/)
 
