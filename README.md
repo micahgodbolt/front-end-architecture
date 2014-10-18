@@ -27,6 +27,7 @@ Front-end Architecture is a collection of tools and processes that aims to imp
 ## Resources
 ### General Articles
 - [Styleguide Generator Roundup](http://welchcanavan.com/styleguide-roundup/)
+- [@klamping's FEA Outline](https://github.com/klamping/Front-end-Architecture-Outline)
 
 ### OO and Code standard Links
 - [Idiomatic CSS](https://github.com/necolas/idiomatic-css)
