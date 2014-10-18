@@ -52,8 +52,9 @@ __Unit Testing__
 ### Automation Tools
 
 ## The Architects
-+ Micah Godbolt [@micahgodbolt](http://twitter.com/micahgodbolt)
++ Micah Godbolt [@micahgodbolt](https://twitter.com/micahgodbolt)
 + Welch Canavan [@xiwcx](https://twitter.com/xiwcx)
-+ Shay Howe [@shayhowe](http://twitter.com/shayhowe)
-+ Eric M. Suzanne [@ericmsuzanne](http://twitter.com/ericmsuzanne)
-+ Mina Markham [@minamarkham](http://twitter.com/minamarkham)
++ Shay Howe [@shayhowe](https://twitter.com/shayhowe)
++ Eric M. Suzanne [@ericmsuzanne](https://twitter.com/ericmsuzanne)
++ Mina Markham [@minamarkham](https://twitter.com/minamarkham)
++ Joe Lencioni [@lencioni](https://twitter.com/lencioni)
