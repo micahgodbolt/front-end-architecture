@@ -1,6 +1,7 @@
 #Front-end Architecture
 ## Changing one Twitter Bio at a Time
 
+Raise a Banner. Take up the Torch. It's time to make Front-end Architecture matter!
 
 > This is meant as a public space for people to contribute and show their support for the discipline of Front-end Architecture. Feel free to create pull requests to add content. Open issues to discuss ideas, or get clarification. As sections grow, we'll eventually break them into their own files. 
 
