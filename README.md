@@ -7,6 +7,8 @@ Raise a Banner. Take up the Torch. It's time to make Front-end Architecture matt
 ## Working Definition
 Front-end Architecture is a collection of tools and processes that aims to improve the quality of our front-end code while creating a more efficient and sustainable workflow.
 
+A Front-end developer's audience is the website user, a Front-end Architect's audience is the developer themselves. 
+
 ## Working Components of Front-end Architecture
 * Coding Standards
   * HTML5/Aria
