@@ -57,3 +57,4 @@ __Unit Testing__
 + Shay Howe [@shayhowe](http://twitter.com/shayhowe)
 + Eric M. Suzanne [@ericmsuzanne](http://twitter.com/ericmsuzanne)
 + Mina Markham [@minamarkham](http://twitter.com/minamarkham)
++ Joe Lencioni [@lencioni](https://twitter.com/lencioni)
