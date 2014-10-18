@@ -2,14 +2,14 @@
 
 Raise a Banner. Take up the Torch. It's time to make Front-end Architecture matter!
 
-> This is meant as a public space for people to contribute and show their support for the discipline of Front-end Architecture. Feel free to create pull requests to add content. Open issues to discuss ideas, or get clarification. As sections grow, we'll eventually break them into their own files. 
+> This is meant as a public space for people to contribute and show their support for the discipline of Front-end Architecture. Feel free to create pull requests to add content. Open issues to discuss ideas, or get clarification. As sections grow, we'll eventually break them into their own files.
 
 ## Working Definition
-Front-end Architecture is a collection  of tools and processes that aims to improve the quality of our front-end code while creating a more efficient and sustainable workflow.
+Front-end Architecture is a collection of tools and processes that aims to improve the quality of our front-end code while creating a more efficient and sustainable workflow.
 
 ## Working Components of Front-end Architecture
 * Coding Standards
-  * HTML5/Aria  
+  * HTML5/Aria
   * CSS/Sass Code standards and organization
   * Object Oriented approach (how do objects break down and get put together)
 * Documentation
@@ -41,3 +41,5 @@ Front-end Architecture is a collection  of tools and processes that aims to im
 ## The Architects
 + Micah Godbolt [@micahgodbolt](http://twitter.com/micahgodbolt)
 + Welch Canavan [@xiwcx](https://twitter.com/xiwcx)
++ Shay Howe [@shayhowe](http://twitter.com/shayhowe)
++ Eric M. Suzanne [@ericmsuzanne](http://twitter.com/ericmsuzanne)
