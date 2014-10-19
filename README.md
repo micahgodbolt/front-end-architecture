@@ -25,7 +25,7 @@ A Front-end developer's audience is the website user, a Front-end Architect's au
 * Automation
   * Dependancy Management (NPM, Bundler, Bower)
   * Build Systems (Grunt/Gulp)
-  * Continuous Integration (Travic CI, Jenkins)
+  * Continuous Integration (Travis CI, Jenkins)
 
 ## Resources
 ### General Articles
