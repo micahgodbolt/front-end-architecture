@@ -49,6 +49,7 @@ __Unit Testing__
 - [Jasmine](http://jasmine.github.io/)
 - [Jest](https://facebook.github.io/jest/)
 - [Mocha](http://visionmedia.github.io/mocha/)
+- [Selenium](http://www.seleniumhq.org/)
 
 ### Documentation Tools
 - [The Styleguide Guide](http://vinspee.me/style-guide-guide/)
