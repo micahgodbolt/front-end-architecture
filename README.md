@@ -11,7 +11,7 @@ A Front-end developer's audience is the website user, a Front-end Architect's au
 
 ## Working Components of Front-end Architecture
 * Coding Standards
-  * HTML5/ARIA
+  * HTML5/WAI-ARIA
   * CSS/Sass Code standards and organization
   * Object Oriented approach (how do objects break down and get put together)
 * Documentation
