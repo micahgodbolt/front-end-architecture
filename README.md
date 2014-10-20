@@ -11,7 +11,7 @@ A Front-end developer's audience is the website user, a Front-end Architect's au
 
 ## Working Components of Front-end Architecture
 * Coding Standards
-  * HTML5/Aria
+  * HTML5/WAI-ARIA
   * CSS/Sass Code standards and organization
   * Object Oriented approach (how do objects break down and get put together)
 * Documentation
@@ -25,7 +25,7 @@ A Front-end developer's audience is the website user, a Front-end Architect's au
 * Automation
   * Dependancy Management (NPM, Bundler, Bower)
   * Build Systems (Grunt/Gulp)
-  * Continuous Integration (Travic CI, Jenkins)
+  * Continuous Integration (Travis CI, Jenkins)
 
 ## Resources
 ### General Articles
@@ -49,6 +49,7 @@ __Unit Testing__
 - [Jasmine](http://jasmine.github.io/)
 - [Jest](https://facebook.github.io/jest/)
 - [Mocha](http://visionmedia.github.io/mocha/)
+- [Selenium](http://www.seleniumhq.org/)
 
 ### Documentation Tools
 - [The Styleguide Guide](http://vinspee.me/style-guide-guide/)
