@@ -49,12 +49,13 @@ __Unit Testing__
 - [Jasmine](http://jasmine.github.io/)
 - [Jest](https://facebook.github.io/jest/)
 - [Mocha](http://visionmedia.github.io/mocha/)
-- [Selenium](http://www.seleniumhq.org/)
+- [Karma](https://github.com/karma-runner/karma)
 
 ### Documentation Tools
 - [The Styleguide Guide](http://vinspee.me/style-guide-guide/)
 
 ### Automation Tools
+- [Selenium](http://www.seleniumhq.org/)
 
 ## The Architects
 + Micah Godbolt [@micahgodbolt](https://twitter.com/micahgodbolt)
