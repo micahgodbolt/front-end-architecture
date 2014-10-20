@@ -44,12 +44,12 @@ __Visual Regression__
 - [Wraith](https://github.com/BBC-News/wraith)
 - [PhantomCSS](https://github.com/Huddle/PhantomCSS)
 - [Diffux](https://github.com/diffux/diffux)
+- [Huxley](https://github.com/facebook/huxley)
 
 __Unit Testing__
 - [Jasmine](http://jasmine.github.io/)
 - [Jest](https://facebook.github.io/jest/)
 - [Mocha](http://visionmedia.github.io/mocha/)
-- [Karma](https://github.com/karma-runner/karma)
 
 ### Documentation Tools
 - [The Styleguide Guide](http://vinspee.me/style-guide-guide/)
