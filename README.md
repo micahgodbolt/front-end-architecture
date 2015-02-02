@@ -10,10 +10,11 @@ Front-end Architecture is a collection of tools and processes that aims to impro
 A Front-end developer's audience is the website user, a Front-end Architect's audience is the developer themselves. 
 
 ## Working Components of Front-end Architecture
-* Coding Standards
+* Code
   * HTML5/WAI-ARIA
   * CSS/Sass Code standards and organization
   * Object Oriented approach (how do objects break down and get put together)
+  * JS frameworks/organization
 * Documentation
   * Onboarding Docs
   * Styleguide/Pattern Library
@@ -22,9 +23,11 @@ A Front-end developer's audience is the website user, a Front-end Architect's au
   * Visual Regression
   * Unit testing
   * End to end testing
-* Automation
+* Process
+  * Git Workflow  
   * Dependancy Management (NPM, Bundler, Bower)
   * Build Systems (Grunt/Gulp)
+  * Deploy Process
   * Continuous Integration (Travis CI, Jenkins)
 
 ## Resources
