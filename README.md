@@ -48,6 +48,7 @@ __Visual Regression__
 - [PhantomCSS](https://github.com/Huddle/PhantomCSS)
 - [Diffux](https://github.com/diffux/diffux)
 - [Huxley](https://github.com/facebook/huxley)
+- [Gemini](https://github.com/bem/gemini)
 
 __Unit Testing__
 - [Jasmine](http://jasmine.github.io/)
