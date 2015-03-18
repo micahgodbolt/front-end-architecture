@@ -14,12 +14,14 @@ A Front-end developer's audience is the website user, a Front-end Architect's au
   * HTML5/WAI-ARIA
   * CSS/Sass Code standards and organization
   * Object Oriented approach (how do objects break down and get put together)
-  * JS frameworks/organization
+  * JS frameworks/organization/performance optimization techniques
+  * Asset Delivery - Front-end Ops
 * Documentation
   * Onboarding Docs
   * Styleguide/Pattern Library
   * Architecture Diagrams (Code flow, tool chain)
 * Testing
+  * Performance Testing
   * Visual Regression
   * Unit testing
   * End to end testing
@@ -43,6 +45,10 @@ A Front-end developer's audience is the website user, a Front-end Architect's au
 - [CSS Guidelines](http://cssguidelin.es/) by Harry Roberts
 
 ### Testing Tools
+__Performance Testing__
+- [browser-perf](https://github.com/axemclion/browser-perf)
+- [latency-benchmark](http://google.github.io/latency-benchmark)
+
 __Visual Regression__
 - [Wraith](https://github.com/BBC-News/wraith)
 - [PhantomCSS](https://github.com/Huddle/PhantomCSS)
