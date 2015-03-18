@@ -43,6 +43,7 @@ A Front-end developer's audience is the website user, a Front-end Architect's au
 - [Idiomatic Sass](https://github.com/anthonyshort/idiomatic-sass)
 - [Used and Abused – CSS Inheritance and Our Misuse of the Cascade](http://phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-of-the-cascade/)
 - [CSS Guidelines](http://cssguidelin.es/) by Harry Roberts
+- [Web Performance Metrics](http://nparashuram.com/perfslides/)
 
 ### Testing Tools
 __Performance Testing__
