@@ -7,27 +7,27 @@ Raise a Banner. Take up the Torch. It's time to make Front-end Architecture matt
 ## Working Definition
 Front-end Architecture is a collection of tools and processes that aims to improve the quality of our front-end code while creating a more efficient and sustainable workflow.
 
-A Front-end developer's audience is the website user, a Front-end Architect's audience is the developer themselves. 
+A Front-end developer's audience is the website user, a Front-end Architect's audience is the developer themselves.
 
 ## Working Components of Front-end Architecture
 * Code
   * HTML5/WAI-ARIA
   * CSS/Sass Code standards and organization
-  * Object Oriented approach (how do objects break down and get put together)
+  * Object-Oriented approach (how do objects break down and get put together)
   * JS frameworks/organization/performance optimization techniques
   * Asset Delivery - Front-end Ops
 * Documentation
   * Onboarding Docs
   * Styleguide/Pattern Library
-  * Architecture Diagrams (Code flow, tool chain)
+  * Architecture Diagrams (code flow, tool chain)
 * Testing
   * Performance Testing
   * Visual Regression
-  * Unit testing
-  * End to end testing
+  * Unit Testing
+  * End-to-End Testing
 * Process
-  * Git Workflow  
-  * Dependancy Management (NPM, Bundler, Bower)
+  * Git Workflow
+  * Dependency Management (npm, Bundler, Bower)
   * Build Systems (Grunt/Gulp)
   * Deploy Process
   * Continuous Integration (Travis CI, Jenkins)
