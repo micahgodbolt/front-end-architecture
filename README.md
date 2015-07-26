@@ -56,6 +56,7 @@ __Visual Regression__
 - [Diffux](https://github.com/diffux/diffux)
 - [Huxley](https://github.com/facebook/huxley)
 - [Gemini](https://github.com/bem/gemini)
+- [Screener](https://screener.io)
 
 __Unit Testing__
 - [Jasmine](http://jasmine.github.io/)
