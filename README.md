@@ -33,6 +33,9 @@ A Front-end developer's audience is the website user, a Front-end Architect's au
   * Continuous Integration (Travis CI, Jenkins)
 
 ## Resources
+### Books
+- [Front-end Architecture: A Modern Blueprint for Scalable and Sustainable Design Systems](http://frontendarchitecture.info/)
+
 ### General Articles
 - [Styleguide Generator Roundup](http://welchcanavan.com/styleguide-roundup/)
 - [@klamping's FEA Outline](https://github.com/klamping/Front-end-Architecture-Outline)
@@ -69,10 +72,3 @@ __Unit Testing__
 ### Automation Tools
 - [Selenium](http://www.seleniumhq.org/)
 
-## The Architects
-+ Micah Godbolt [@micahgodbolt](https://twitter.com/micahgodbolt)
-+ Welch Canavan [@xiwcx](https://twitter.com/xiwcx)
-+ Shay Howe [@shayhowe](https://twitter.com/shayhowe)
-+ Eric M. Suzanne [@ericmsuzanne](https://twitter.com/ericmsuzanne)
-+ Mina Markham [@minamarkham](https://twitter.com/minamarkham)
-+ Joe Lencioni [@lencioni](https://twitter.com/lencioni)
