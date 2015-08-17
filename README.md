@@ -52,6 +52,7 @@ A Front-end developer's audience is the website user, a Front-end Architect's au
 __Performance Testing__
 - [browser-perf](https://github.com/axemclion/browser-perf)
 - [latency-benchmark](http://google.github.io/latency-benchmark)
+- [Google Web Tracing Framework](https://github.com/google/tracing-framework/)
 
 __Visual Regression__
 - [Wraith](https://github.com/BBC-News/wraith)
