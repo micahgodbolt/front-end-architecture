@@ -56,7 +56,7 @@
   </div>
   \```
 
-  \#\# Secondary Button
+  ## Secondary Button
   \```html_example
   <div class="rh-cta" >
      <a class="rh-cta-link" data-rh-cta-type="secondary" href="#">
