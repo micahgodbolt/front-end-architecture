@@ -11,17 +11,17 @@
 
   - A "Call-to-Action" component contains one or more CTA buttons.
 
-  \#\# Primary Button
+  ## Primary Button
 
-  \`\`\`html_example
+  \```html_example
    {% include "cta.twig" with {'type': 'primary'} %}
-  \`\`\`
+  \```
 
-  \#\# Secondary Button
+  ## Secondary Button
 
-  \`\`\`html_example
+  \```html_example
    {% include "cta.twig" with {'type': 'secondary} %}
-  \`\`\`
+  \```
 ```
 
 ```html
@@ -46,25 +46,25 @@
 
   - A "Call-to-Action" component contains one or more CTA buttons.
 
-  \#\# Primary Button
+  ## Primary Button
 
-  \`\`\`html_example
+  \```html_example
   <div class="rh-cta" >
      <a class="rh-cta-link" data-rh-cta-type="primary" href="#">
       CTA Button
     </a>
   </div>
-  \`\`\`
+  \```
 
   \#\# Secondary Button
-  \`\`\`html_example
+  \```html_example
   <div class="rh-cta" >
      <a class="rh-cta-link" data-rh-cta-type="secondary" href="#">
       CTA Button
     </a>
   </div>
-
-  \`\`\`
+  \```
+  
 ```
 ## We Just Reinvented Pattern Lab
 
