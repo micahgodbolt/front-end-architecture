@@ -40,6 +40,7 @@ A Front-end developer's audience is the website user, a Front-end Architect's au
 - [Styleguide Generator Roundup](http://welchcanavan.com/styleguide-roundup/)
 - [@klamping's FEA Outline](https://github.com/klamping/Front-end-Architecture-Outline)
 - [What is Front-end Architecture by Elyse Holladay](http://www.elyseholladay.com/posts/2014/10/16/front-end-architect/)
+- [Duties, Skills, & Knowledge of a Software Architect by Carnegie Mellon University](https://www.sei.cmu.edu/architecture/research/previousresearch/duties.cfm)
 
 ### OO and Code standard Links
 - [Idiomatic CSS](https://github.com/necolas/idiomatic-css)
