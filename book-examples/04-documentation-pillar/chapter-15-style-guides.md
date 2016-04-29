@@ -39,9 +39,9 @@ category: Base CSS
 
 This is our button
 
-```html_example
+\```html_example
 <a class="btn" href="#">Click</a>
-```
+\```
 */
 
 
