@@ -34,7 +34,7 @@ A Front-end developer's audience is the website user, a Front-end Architect's au
 
 ## Resources
 ### Books
-- [Front-end Architecture: A Modern Blueprint for Scalable and Sustainable Design Systems](http://shop.oreilly.com/product/0636920040156.do?intcmp=il-web-books-videos-article-pr_defining_front_end_architecture)
+- [Front-end Architecture: A Modern Blueprint for Scalable and Sustainable Design Systems](http://fea.pub)
 
 ### General Articles
 - [Micahgodbolt.com](https://micahgodbolt.com)
